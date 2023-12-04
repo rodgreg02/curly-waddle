@@ -1,0 +1,11 @@
+rodrigo logged in at 2023-12-04 20:42:28.924315
+rodrigo transferred, 2222$ to marco account at 2023-12-04 20:42:36.136841d logged in at 2023-12-04 20:55:13.200184
+d logged in at 2023-12-04 20:55:53.309828
+d deposited, 10$ to d account at 2023-12-04 20:55:56.763885d transferred, 9$ to rodrigo account at 2023-12-04 20:56:10.256805d transferred, 9$ to rodrigo account at 2023-12-04 20:56:19.018705d logged in at 2023-12-04 21:01:48.34043
+d deposited, 100$ to d account at 2023-12-04 21:01:52.092932d transferred, 9$ to rodrigo account at 2023-12-04 21:02:10.56533d deposited, 0$ to d account at 2023-12-04 21:02:19.697849d logged in at 2023-12-04 21:03:25.487105
+d transferred, 100$ to rodrigo account at 2023-12-04 21:03:33.671528d deposited, 2$ to d account at 2023-12-04 21:03:36.281d tried using a blocked account. Tried transfer of 2$d tried using a blocked account. Tried transfer of 2$d tried using a blocked account. Tried transfer of 3$d tried using a blocked account. Tried transfer of 1$d tried using a blocked account. Tried transfer of 4$d tried using a blocked account. Tried transfer of 4$d tried using a blocked account. Tried transfer of 4$d tried using a blocked account. Tried transfer of 4$d tried using a blocked account. Tried transfer of 4$d tried using a blocked account. Tried transfer of 4$d tried using a blocked account. Tried transfer of 4$d tried using a blocked account. Tried transfer of 4$d tried using a blocked account. Tried transfer of 4$d tried using a blocked account. Tried a deposit of 4$d logged in at 2023-12-04 21:05:58.798705
+d deposited, 3$ to d account at 2023-12-04 21:06:31.239888d logged in at 2023-12-04 21:06:48.899311
+d logged in at 2023-12-04 21:08:39.675341
+d logged in at 2023-12-04 21:09:28.398595
+d logged in at 2023-12-04 21:10:35.487276
+d transferred, 2$ to rodrigo account at 2023-12-04 21:10:41.656882d tried using a blocked account. Tried transfer of 1$
